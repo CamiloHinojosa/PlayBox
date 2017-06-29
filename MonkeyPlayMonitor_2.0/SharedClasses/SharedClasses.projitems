@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>4bd40778-ff0a-49fa-a93c-77d9283f9068</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>SharedClasses</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)CLSELog.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CLSEReport.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CLSEReportManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CLSESessionManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)COACLog.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)COSELog.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)COSEReport.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)COSEReportManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)COSESessionManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Log.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Report.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)ReportManager.cs" />
+  </ItemGroup>
+</Project>

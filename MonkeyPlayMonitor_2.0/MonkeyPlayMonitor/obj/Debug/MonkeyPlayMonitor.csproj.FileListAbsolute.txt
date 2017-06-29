@@ -1,0 +1,147 @@
+C:\Users\Camilo Hinojosa\documents\visual studio 2013\Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe.config
+C:\Users\Camilo Hinojosa\documents\visual studio 2013\Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\documents\visual studio 2013\Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\documents\visual studio 2013\Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.ConfirmationWindow.resources
+C:\Users\Camilo Hinojosa\documents\visual studio 2013\Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.CreateConsoleWindow.resources
+C:\Users\Camilo Hinojosa\documents\visual studio 2013\Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.EditSettingsWindows.resources
+C:\Users\Camilo Hinojosa\documents\visual studio 2013\Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.IntroLoadingWindow.resources
+C:\Users\Camilo Hinojosa\documents\visual studio 2013\Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.Properties.Resources.resources
+C:\Users\Camilo Hinojosa\documents\visual studio 2013\Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csproj.GenerateResource.Cache
+C:\Users\Camilo Hinojosa\documents\visual studio 2013\Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\documents\visual studio 2013\Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\documents\visual studio 2013\Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Hinojosa\documents\visual studio 2013\Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.Main.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe.config
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.ConfirmationWindow.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.CreateConsoleWindow.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.EditSettingsWindows.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.IntroLoadingWindow.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.Main.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.Properties.Resources.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csproj.GenerateResource.Cache
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.GameConsoleControl.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe.config
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.ConfirmationWindow.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.CreateConsoleWindow.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.EditSettingsWindows.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.GameConsoleControl.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.IntroLoadingWindow.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.Properties.Resources.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csproj.GenerateResource.Cache
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.MainWindow.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2013\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe.config
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.ConfirmationWindow.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.CreateConsoleWindow.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.EditSettingsWindows.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.GameConsoleControl.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.IntroLoadingWindow.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.MainWindow.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.Properties.Resources.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\Software Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csproj.GenerateResource.Cache
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe.config
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.ConfirmationWindow.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.CreateConsoleWindow.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.EditSettingsWindows.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.GameConsoleControl.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.IntroLoadingWindow.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.MainWindow.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.Properties.Resources.resources
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2015\Projects\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csproj.GenerateResource.Cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe.config
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.ConfirmationWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.CreateConsoleWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.EditSettingsWindows.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.GameConsoleControl.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.IntroLoadingWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.MainWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.Properties.Resources.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csproj.GenerateResource.Cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.ReportViewer.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csproj.GenerateResource.Cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Consumption\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe.config
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Consumption\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Consumption\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Consumption\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Consumption\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Consumption\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.ConfirmationWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Consumption\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.CreateConsoleWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Consumption\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.EditSettingsWindows.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Consumption\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.GameConsoleControl.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Consumption\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.IntroLoadingWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Consumption\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.MainWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Consumption\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.Properties.Resources.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Consumption\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.ReportViewer.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Consumption\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csproj.GenerateResource.Cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Consumption\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Settings Separation\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe.config
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Settings Separation\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Settings Separation\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Settings Separation\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Settings Separation\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Settings Separation\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Settings Separation\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.ConfirmationWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Settings Separation\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.CreateConsoleWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Settings Separation\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.EditSettingsWindows.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Settings Separation\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.GameConsoleControl.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Settings Separation\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.IntroLoadingWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Settings Separation\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.MainWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Settings Separation\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.Properties.Resources.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Settings Separation\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.ReportViewer.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test - Settings Separation\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csproj.GenerateResource.Cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy - Copy\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe.config
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.ConfirmationWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.CreateConsoleWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.EditSettingsWindows.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.GameConsoleControl.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.IntroLoadingWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.MainWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.Properties.Resources.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.ReportViewer.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csproj.GenerateResource.Cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy - Copy\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy - Copy\MonkeyPlayMonitor\bin\Debug\MonkeyPlayMonitor.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Copy - Copy\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.GCCPrePaidOptions.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\obj\Debug\MonkeyPlayMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\PlayBoxSharedLibrary.dll
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\PlayBoxSharedLibrary.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\obj\Debug\PlayBoxMonitor.Properties.Resources.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\PlayBoxMonitor.exe.config
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\PlayBoxMonitor.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\PlayBoxMonitor.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\obj\Debug\PlayBoxMonitor.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\obj\Debug\PlayBoxMonitor.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\obj\Debug\PlayBoxMonitor.ConfirmationWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\obj\Debug\PlayBoxMonitor.CreateConsoleWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\obj\Debug\PlayBoxMonitor.EditSettingsWindows.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\obj\Debug\PlayBoxMonitor.GameConsoleControl.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\obj\Debug\PlayBoxMonitor.IntroLoadingWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\obj\Debug\PlayBoxMonitor.MainWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\obj\Debug\PlayBoxMonitor.GCCPrePaidOptions.resources

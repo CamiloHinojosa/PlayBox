@@ -1,0 +1,84 @@
+﻿<Window x:Class="PlayBox.StartOptions"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PlayBox"
+        mc:Ignorable="d"
+        Title="Start Options" Height="313.055" Width="477.786" WindowStyle="ToolWindow" Background="#FF333846" Foreground="White" ResizeMode="NoResize" WindowStartupLocation="CenterOwner">
+    <Grid x:Name="_mainContainer">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="2*"/>
+        </Grid.RowDefinitions>
+        <Grid x:Name="_mainOptionsContainer" Margin="0" Background="#FF1C1D1F" IsEnabled="{Binding AddModeEnabled}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <ComboBox x:Name="_service" Margin="0" HorizontalAlignment="Center" Width="170" BorderBrush="White" SelectedIndex="{Binding Service, Mode=TwoWay}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="2" FontSize="16" FontFamily="Gill Sans MT" FontWeight="Bold" Background="White" Foreground="#FF1588B3" VerticalAlignment="Center" Height="28" Grid.Column="1" SelectionChanged="_service_SelectionChanged">
+                <ComboBoxItem Content="Games"/>
+                <ComboBoxItem Content="Movies"/>
+            </ComboBox>
+            <ComboBox x:Name="_startType" Margin="0" BorderBrush="White" SelectedIndex="{Binding StartType}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" HorizontalAlignment="Center" Width="170" Height="28" Padding="2" VerticalAlignment="Center" FontSize="16" FontFamily="Gill Sans MT" FontWeight="Bold" Background="White" Foreground="#FF1588B3" SelectionChanged="_startType_SelectionChanged" Grid.Row="1" Grid.Column="1">
+                <ComboBoxItem Content="Normal"/>
+                <ComboBoxItem Content="Prepaid"/>
+            </ComboBox>
+            <Label x:Name="_serviceLBL" Content="Service" HorizontalAlignment="Center" Margin="60,0,0,0" Foreground="White" Padding="0" FontSize="21.333" FontFamily="Century Gothic" d:LayoutOverrides="Height" VerticalAlignment="Center" Width="120" VerticalContentAlignment="Center"/>
+            <Label x:Name="_typeLBL" Content="Start Type" Margin="64.8,10.642,0,10.642" Foreground="White" Padding="0" FontSize="21.333" FontFamily="Century Gothic" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="1" Width="120" VerticalContentAlignment="Center"/>
+        </Grid>
+        <Grid x:Name="_prepaidOptionsContainer" IsEnabled="{Binding PrepaidEnabled}" Margin="0" Grid.Row="1" Background="#FF272B2F" OpacityMask="Black">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid x:Name="_prepaidInputContainer" Margin="0" Grid.Row="1" Background="#FF2D3542">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="5*"/>
+                    <ColumnDefinition Width="3*"/>
+                </Grid.ColumnDefinitions>
+                <Label x:Name="_inputLBL" Foreground="#FF3187CD" HorizontalAlignment="Right" Padding="0" Margin="0" FontSize="18.667" FontFamily="Gadugi" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Content="Amount:" VerticalAlignment="Center"/>
+                <TextBox x:Name="_input" Text="{Binding InputValue, Mode=OneWay}" Margin="0" TextWrapping="Wrap" HorizontalAlignment="Center" Width="160" Height="35" FontSize="29.333" FontFamily="Microsoft YaHei UI" HorizontalContentAlignment="Right" FontWeight="Bold" Foreground="#FF31455C" Grid.Column="1" VerticalAlignment="Center" Padding="0,0,10,0" VerticalContentAlignment="Center"/>
+                <Label x:Name="_unitLBL" Content="{Binding InputUnit}" Foreground="#FF3187CD" HorizontalAlignment="Left" Padding="0" Margin="0" FontSize="18.667" FontFamily="Gadugi" FontWeight="Bold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Grid.Column="2" VerticalAlignment="Center"/>
+            </Grid>
+            <Grid x:Name="_prepaidTypeContainer" IsEnabled="{Binding AddModeEnabled}" Margin="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <ComboBox x:Name="_prepaidType" Margin="0" BorderBrush="White" SelectedIndex="0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontSize="14.667" FontFamily="Gill Sans MT" FontWeight="Bold" Background="White" Foreground="#FF1588B3" SelectionChanged="_prepaidType_SelectionChanged" HorizontalAlignment="Center" Width="170" Height="28" Grid.Column="1" VerticalAlignment="Center" Padding="2">
+                    <ComboBoxItem Content="By Time"/>
+                    <ComboBoxItem Content="By Consumption"/>
+                </ComboBox>
+                <Label x:Name="_prepaidTypeLBL" Content="Prepaid Type" Margin="60,0,0,0" Foreground="White" Padding="0" VerticalContentAlignment="Center" FontFamily="Berlin Sans FB" FontSize="18.667" HorizontalAlignment="Center" VerticalAlignment="Center" Width="120"/>
+            </Grid>
+        </Grid>
+        <Grid Margin="0" Grid.Row="2" Background="#FF454C56">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="6*"/>
+                <ColumnDefinition Width="2*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Margin="0" Background="Black">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="424*"/>
+                    <ColumnDefinition Width="35*"/>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="_errorBox" Margin="0" Background="Black" Foreground="#FFFF3918" FontSize="18.667" FontFamily="Courier New" BorderBrush="{x:Null}" Grid.ColumnSpan="2" IsReadOnly="True" Padding="5" TextWrapping="Wrap"/>
+            </Grid>
+            <Grid x:Name="_buttonsContainer" Grid.Column="1" Margin="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Button x:Name="_cancelBTN" Content="Cancel" Margin="0" Foreground="#FFFDFDFD" FontSize="18.667" FontFamily="Lucida Sans Unicode" Background="#FFFF2500" IsCancel="True" Grid.Row="1"/>
+                <Button x:Name="_applyBTN" Content="Apply" Margin="0" Foreground="#FFFDFDFD" FontSize="18.667" FontFamily="Lucida Sans Unicode" Background="#FF1790C5" d:LayoutOverrides="VerticalAlignment" Click="_applyBTN_Click"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>

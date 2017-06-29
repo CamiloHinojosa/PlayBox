@@ -1,0 +1,841 @@
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR0 ~ Play Station 4 (1).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR0 ~ Play Station 4 (1).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR0 ~ Play Station 4 (1).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR1 ~ Play Station 4 (2).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR1 ~ Play Station 4 (2).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR1 ~ Play Station 4 (2).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR10 ~ Play Station 4 (1).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR10 ~ Play Station 4 (1).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR10 ~ Play Station 4 (1).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR11 ~ Play Station 4 (2).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR11 ~ Play Station 4 (2).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR11 ~ Play Station 4 (2).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR12 ~ Play Station 4 (3).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR12 ~ Play Station 4 (3).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR12 ~ Play Station 4 (3).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR13 ~ Play Station 4 (4).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR13 ~ Play Station 4 (4).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR13 ~ Play Station 4 (4).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR14 ~ Play Station 4 (5).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR14 ~ Play Station 4 (5).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR14 ~ Play Station 4 (5).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR15 ~ XBOX (6).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR15 ~ XBOX (6).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR15 ~ XBOX (6).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report loaded:
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR16 ~ Play Station 4 (1).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report loaded:
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR17 ~ Play Station 4 (2).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report loaded:
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR18 ~ Play Station 4 (3).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report loaded:
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR19 ~ Play Station 4 (4).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR2 ~ Play Station 4 (3).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR2 ~ Play Station 4 (3).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR2 ~ Play Station 4 (3).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report loaded:
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR20 ~ Play Station 4 (5).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report loaded:
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR21 ~ XBOX (6).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR3 ~ Play Station 4 (4).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR3 ~ Play Station 4 (4).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR3 ~ Play Station 4 (4).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR4 ~ Play Station 4 (5).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR4 ~ Play Station 4 (5).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR4 ~ Play Station 4 (5).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR5 ~ Play Station 4 (1).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR5 ~ Play Station 4 (1).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR5 ~ Play Station 4 (1).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR6 ~ Play Station 4 (2).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR6 ~ Play Station 4 (2).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR6 ~ Play Station 4 (2).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR7 ~ Play Station 4 (3).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR7 ~ Play Station 4 (3).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR7 ~ Play Station 4 (3).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR8 ~ Play Station 4 (4).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR8 ~ Play Station 4 (4).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR8 ~ Play Station 4 (4).dat
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> Loading COSE Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR9 ~ Play Station 4 (5).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR9 ~ Play Station 4 (5).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] COSE REPORT MANAGER - LR(bN) ==> COSE Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR9 ~ Play Station 4 (5).dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR0.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR0.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR0.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR1.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR1.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR1.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR10.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR10.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR10.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR11.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR11.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR11.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR12.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR12.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR12.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR13.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR13.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR13.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR14.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR14.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR14.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR15.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR15.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR15.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR16.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR16.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR16.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR17.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR17.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR17.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR18.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR18.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR18.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR19.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR19.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR19.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR2.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR2.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR2.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR20.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR20.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR20.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR21.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR21.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR21.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR22.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR22.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR22.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR23.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR23.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR23.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR24.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR24.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR24.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR25.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR25.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR25.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR26.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR26.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR26.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR27.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR27.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR27.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR28.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR28.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR28.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR29.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR29.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR29.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR3.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR3.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR3.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR30.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR30.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR30.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR31.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR31.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR31.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR32.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR32.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR32.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report loaded:
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR33.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR4.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR4.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR4.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR5.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR5.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR5.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR6.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR6.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR6.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR7.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR7.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR7.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR8.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR8.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR8.dat
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR9.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR9.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR9.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR0.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR0.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR1.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR1.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR1.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR10.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR10.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR10.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR11.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR11.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR11.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR12.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR12.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR12.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR13.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR13.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR13.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR14.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR14.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR14.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR15.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR15.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR15.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR16.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR16.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR16.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR17.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR17.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR17.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR18.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR18.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR18.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR19.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR19.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR19.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR2.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR2.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR2.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR20.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR20.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR20.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR21.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR21.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR21.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR22.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR22.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR22.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR23.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR23.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR23.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR24.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR24.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR24.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR25.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR25.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR25.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR26.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR26.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR26.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR27.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR27.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR27.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR28.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR28.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR28.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR29.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR29.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR29.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR3.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR3.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR3.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR30.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR30.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR30.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR31.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR31.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR31.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR32.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR32.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR32.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report loaded:
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR33.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR4.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR4.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR4.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR5.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR5.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR5.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR6.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR6.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR6.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR7.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR7.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR7.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR8.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR8.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR8.dat
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:07:40 PM] REPORT MANAGER - SR ==> Failed to save report: C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR9.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Desktop\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR9.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:07:40 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR9.dat
+[6/24/2017 4:07:40 PM] YECO REPORT MANAGER - LR+CR ==> Loading YECO Report...
+[6/24/2017 4:07:40 PM] YECO REPORT MANAGER - LR+CR ==> YECO Report loaded: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Consumption Reports\YECOxR1.dat
+[6/24/2017 4:07:40 PM] YECO REPORT MANAGER - LR+CR ==> Loading YECO Report...
+[6/24/2017 4:07:40 PM] YECO REPORT MANAGER - LR+CR ==> YECO Report loaded: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Consumption Reports\YECOxR1.dat

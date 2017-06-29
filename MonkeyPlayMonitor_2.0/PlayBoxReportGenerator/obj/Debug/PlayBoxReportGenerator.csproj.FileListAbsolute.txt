@@ -1,0 +1,24 @@
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxReportGenerator\bin\Debug\PlayBoxReportGenerator.exe.config
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxReportGenerator\bin\Debug\PlayBoxReportGenerator.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxReportGenerator\bin\Debug\PlayBoxReportGenerator.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxReportGenerator\bin\Debug\PlayBoxSharedLibrary.dll
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxReportGenerator\bin\Debug\PlayBoxSharedLibrary.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxReportGenerator\obj\Debug\PlayBoxReportGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxReportGenerator\obj\Debug\PlayBoxReportGenerator.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxReportGenerator\obj\Debug\PlayBoxReportGenerator.pdb
+E:\MonkeyPlayMonitor - Test\PlayBoxReportGenerator\obj\Debug\PlayBoxReportGenerator.csprojResolveAssemblyReference.cache
+E:\MonkeyPlayMonitor - Test\PlayBoxReportGenerator\obj\Debug\PlayBoxReportGenerator.exe
+E:\MonkeyPlayMonitor - Test\PlayBoxReportGenerator\obj\Debug\PlayBoxReportGenerator.pdb
+E:\MonkeyPlayMonitor - Test\PlayBoxReportGenerator\bin\Debug\PlayBoxReportGenerator.exe.config
+E:\MonkeyPlayMonitor - Test\PlayBoxReportGenerator\bin\Debug\PlayBoxReportGenerator.exe
+E:\MonkeyPlayMonitor - Test\PlayBoxReportGenerator\bin\Debug\PlayBoxReportGenerator.pdb
+E:\MonkeyPlayMonitor - Test\PlayBoxReportGenerator\bin\Debug\PlayBoxSharedLibrary.dll
+E:\MonkeyPlayMonitor - Test\PlayBoxReportGenerator\bin\Debug\PlayBoxSharedLibrary.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxReportGenerator\bin\Debug\PlayBoxReportGenerator.exe.config
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxReportGenerator\bin\Debug\PlayBoxReportGenerator.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxReportGenerator\bin\Debug\PlayBoxReportGenerator.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxReportGenerator\bin\Debug\PlayBoxSharedLibrary.dll
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxReportGenerator\bin\Debug\PlayBoxSharedLibrary.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxReportGenerator\obj\Debug\PlayBoxReportGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxReportGenerator\obj\Debug\PlayBoxReportGenerator.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxReportGenerator\obj\Debug\PlayBoxReportGenerator.pdb

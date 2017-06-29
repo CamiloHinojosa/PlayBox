@@ -1,0 +1,15 @@
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxSharedLibrary\bin\Debug\PlayBoxSharedLibrary.dll
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxSharedLibrary\bin\Debug\PlayBoxSharedLibrary.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxSharedLibrary\obj\Debug\PlayBoxSharedLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxSharedLibrary\obj\Debug\PlayBoxSharedLibrary.dll
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxSharedLibrary\obj\Debug\PlayBoxSharedLibrary.pdb
+E:\MonkeyPlayMonitor - Test\PlayBoxSharedLibrary\obj\Debug\PlayBoxSharedLibrary.csprojResolveAssemblyReference.cache
+E:\MonkeyPlayMonitor - Test\PlayBoxSharedLibrary\obj\Debug\PlayBoxSharedLibrary.dll
+E:\MonkeyPlayMonitor - Test\PlayBoxSharedLibrary\obj\Debug\PlayBoxSharedLibrary.pdb
+E:\MonkeyPlayMonitor - Test\PlayBoxSharedLibrary\bin\Debug\PlayBoxSharedLibrary.dll
+E:\MonkeyPlayMonitor - Test\PlayBoxSharedLibrary\bin\Debug\PlayBoxSharedLibrary.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxSharedLibrary\bin\Debug\PlayBoxSharedLibrary.dll
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxSharedLibrary\bin\Debug\PlayBoxSharedLibrary.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxSharedLibrary\obj\Debug\PlayBoxSharedLibrary.dll
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxSharedLibrary\obj\Debug\PlayBoxSharedLibrary.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxSharedLibrary\obj\Debug\PlayBoxSharedLibrary.csprojResolveAssemblyReference.cache

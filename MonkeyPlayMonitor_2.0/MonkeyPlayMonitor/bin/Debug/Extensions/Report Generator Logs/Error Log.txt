@@ -1,0 +1,259 @@
+[6/24/2017 4:06:26 PM] Initializing Interpreter...
+[6/24/2017 4:06:26 PM] Interpreter initialized.
+[6/24/2017 4:06:26 PM] Waiting for connection with PlayBoxMonitor
+[6/24/2017 4:06:26 PM] Connection stablished with PlayBoxMonitor
+[6/24/2017 4:06:26 PM] 
+
+
+
++______________________________________________________________________ R G    P A C K E T ______________________________________________________________________________________+
+[6/24/2017 4:06:26 PM] INPUT DATA:: COSExR$start$C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR10 ~ Play Station 4 (1).dat#1#Play Station 4
+[6/24/2017 4:06:26 PM] Initializeing COSE Report...
+[6/24/2017 4:06:26 PM] COSE Report initialized succesfully.
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - LR+CR ==> Loading COSE Report...
+[6/24/2017 4:06:26 PM] REPORT MANAGER - LR ==> failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR10 ~ Play Station 4 (1).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR10 ~ Play Station 4 (1).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - CR ==> Creating COSE Report...
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - CR ==> COSE Report created: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR16 ~ Play Station 4 (1).dat
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - LR+CR ==> COSE Report loaded:
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR16 ~ Play Station 4 (1).dat
+[6/24/2017 4:06:26 PM] +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+[6/24/2017 4:06:26 PM] O U T P U T    D A T A::> 
+[6/24/2017 4:06:26 PM] 	- C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR16 ~ Play Station 4 (1).dat
+[6/24/2017 4:06:26 PM] 	- 16
+[6/24/2017 4:06:26 PM] 	- True
+[6/24/2017 4:06:26 PM] ---------------------------------------------------------------------------------------------------------------------------------------------
+[6/24/2017 4:06:26 PM] 
+
+
+Waiting for packet...
+
+
+[6/24/2017 4:06:26 PM] 
+
+
+
++______________________________________________________________________ R G    P A C K E T ______________________________________________________________________________________+
+[6/24/2017 4:06:26 PM] INPUT DATA:: COSExR$start$C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR11 ~ Play Station 4 (2).dat#2#Play Station 4
+[6/24/2017 4:06:26 PM] Initializeing COSE Report...
+[6/24/2017 4:06:26 PM] COSE Report initialized succesfully.
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - LR+CR ==> Loading COSE Report...
+[6/24/2017 4:06:26 PM] REPORT MANAGER - LR ==> failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR11 ~ Play Station 4 (2).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR11 ~ Play Station 4 (2).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - CR ==> Creating COSE Report...
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - CR ==> COSE Report created: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR17 ~ Play Station 4 (2).dat
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - LR+CR ==> COSE Report loaded:
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR17 ~ Play Station 4 (2).dat
+[6/24/2017 4:06:26 PM] +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+[6/24/2017 4:06:26 PM] O U T P U T    D A T A::> 
+[6/24/2017 4:06:26 PM] 	- C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR17 ~ Play Station 4 (2).dat
+[6/24/2017 4:06:26 PM] 	- 17
+[6/24/2017 4:06:26 PM] 	- True
+[6/24/2017 4:06:26 PM] ---------------------------------------------------------------------------------------------------------------------------------------------
+[6/24/2017 4:06:26 PM] 
+
+
+Waiting for packet...
+
+
+[6/24/2017 4:06:26 PM] 
+
+
+
++______________________________________________________________________ R G    P A C K E T ______________________________________________________________________________________+
+[6/24/2017 4:06:26 PM] INPUT DATA:: COSExR$start$C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR12 ~ Play Station 4 (3).dat#3#Play Station 4
+[6/24/2017 4:06:26 PM] Initializeing COSE Report...
+[6/24/2017 4:06:26 PM] COSE Report initialized succesfully.
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - LR+CR ==> Loading COSE Report...
+[6/24/2017 4:06:26 PM] REPORT MANAGER - LR ==> failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR12 ~ Play Station 4 (3).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR12 ~ Play Station 4 (3).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - CR ==> Creating COSE Report...
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - CR ==> COSE Report created: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR18 ~ Play Station 4 (3).dat
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - LR+CR ==> COSE Report loaded:
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR18 ~ Play Station 4 (3).dat
+[6/24/2017 4:06:26 PM] +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+[6/24/2017 4:06:26 PM] O U T P U T    D A T A::> 
+[6/24/2017 4:06:26 PM] 	- C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR18 ~ Play Station 4 (3).dat
+[6/24/2017 4:06:26 PM] 	- 18
+[6/24/2017 4:06:26 PM] 	- True
+[6/24/2017 4:06:26 PM] ---------------------------------------------------------------------------------------------------------------------------------------------
+[6/24/2017 4:06:26 PM] 
+
+
+Waiting for packet...
+
+
+[6/24/2017 4:06:26 PM] 
+
+
+
++______________________________________________________________________ R G    P A C K E T ______________________________________________________________________________________+
+[6/24/2017 4:06:26 PM] INPUT DATA:: COSExR$start$C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR13 ~ Play Station 4 (4).dat#4#Play Station 4
+[6/24/2017 4:06:26 PM] Initializeing COSE Report...
+[6/24/2017 4:06:26 PM] COSE Report initialized succesfully.
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - LR+CR ==> Loading COSE Report...
+[6/24/2017 4:06:26 PM] REPORT MANAGER - LR ==> failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR13 ~ Play Station 4 (4).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR13 ~ Play Station 4 (4).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - CR ==> Creating COSE Report...
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - CR ==> COSE Report created: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR19 ~ Play Station 4 (4).dat
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - LR+CR ==> COSE Report loaded:
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR19 ~ Play Station 4 (4).dat
+[6/24/2017 4:06:26 PM] +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+[6/24/2017 4:06:26 PM] O U T P U T    D A T A::> 
+[6/24/2017 4:06:26 PM] 	- C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR19 ~ Play Station 4 (4).dat
+[6/24/2017 4:06:26 PM] 	- 19
+[6/24/2017 4:06:26 PM] 	- True
+[6/24/2017 4:06:26 PM] ---------------------------------------------------------------------------------------------------------------------------------------------
+[6/24/2017 4:06:26 PM] 
+
+
+Waiting for packet...
+
+
+[6/24/2017 4:06:26 PM] 
+
+
+
++______________________________________________________________________ R G    P A C K E T ______________________________________________________________________________________+
+[6/24/2017 4:06:26 PM] INPUT DATA:: COSExR$start$C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR14 ~ Play Station 4 (5).dat#5#Play Station 4
+[6/24/2017 4:06:26 PM] Initializeing COSE Report...
+[6/24/2017 4:06:26 PM] COSE Report initialized succesfully.
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - LR+CR ==> Loading COSE Report...
+[6/24/2017 4:06:26 PM] REPORT MANAGER - LR ==> failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR14 ~ Play Station 4 (5).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR14 ~ Play Station 4 (5).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - CR ==> Creating COSE Report...
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - CR ==> COSE Report created: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR20 ~ Play Station 4 (5).dat
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - LR+CR ==> COSE Report loaded:
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR20 ~ Play Station 4 (5).dat
+[6/24/2017 4:06:26 PM] +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+[6/24/2017 4:06:26 PM] O U T P U T    D A T A::> 
+[6/24/2017 4:06:26 PM] 	- C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR20 ~ Play Station 4 (5).dat
+[6/24/2017 4:06:26 PM] 	- 20
+[6/24/2017 4:06:26 PM] 	- True
+[6/24/2017 4:06:26 PM] ---------------------------------------------------------------------------------------------------------------------------------------------
+[6/24/2017 4:06:26 PM] 
+
+
+Waiting for packet...
+
+
+[6/24/2017 4:06:26 PM] 
+
+
+
++______________________________________________________________________ R G    P A C K E T ______________________________________________________________________________________+
+[6/24/2017 4:06:26 PM] INPUT DATA:: COSExR$start$C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR15 ~ XBOX (6).dat#6#XBOX
+[6/24/2017 4:06:26 PM] Initializeing COSE Report...
+[6/24/2017 4:06:26 PM] COSE Report initialized succesfully.
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - LR+CR ==> Loading COSE Report...
+[6/24/2017 4:06:26 PM] REPORT MANAGER - LR ==> failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR15 ~ XBOX (6).dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR15 ~ XBOX (6).dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - CR ==> Creating COSE Report...
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - CR ==> COSE Report created: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR21 ~ XBOX (6).dat
+[6/24/2017 4:06:26 PM] COSE REPORT MANAGER - LR+CR ==> COSE Report loaded:
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR21 ~ XBOX (6).dat
+[6/24/2017 4:06:26 PM] +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+[6/24/2017 4:06:26 PM] O U T P U T    D A T A::> 
+[6/24/2017 4:06:26 PM] 	- C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Console Reports\Console Session Reports\COSExR21 ~ XBOX (6).dat
+[6/24/2017 4:06:26 PM] 	- 21
+[6/24/2017 4:06:26 PM] 	- True
+[6/24/2017 4:06:26 PM] ---------------------------------------------------------------------------------------------------------------------------------------------
+[6/24/2017 4:06:26 PM] 
+
+
+Waiting for packet...
+
+
+[6/24/2017 4:06:26 PM] 
+
+
+
++______________________________________________________________________ R G    P A C K E T ______________________________________________________________________________________+
+[6/24/2017 4:06:26 PM] INPUT DATA:: CLINxR$start$C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR26.dat
+[6/24/2017 4:06:26 PM] OUTPUT::Initializeing CLIN Report...
+[6/24/2017 4:06:26 PM] CLIN REPORT MANAGER - LR+CR ==> Loading CLIN Report...
+[6/24/2017 4:06:26 PM] REPORT MANAGER - LR ==> failed to load: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR26.dat
+Could not find a part of the path 'C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR26.dat'.
+
+mscorlib
+Void WinIOError(Int32, System.String)
+
+mscorlib
+Void WinIOError(Int32, System.String)
+[6/24/2017 4:06:26 PM] CLIN REPORT MANAGER - CR ==> Creating CLIN Report...
+[6/24/2017 4:06:26 PM] CLIN REPORT MANAGER - CR ==> CLIN Report created: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR33.dat
+[6/24/2017 4:06:26 PM] CLIN REPORT MANAGER - LR+CR ==> CLIN Report loaded:
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR33.dat
+[6/24/2017 4:06:26 PM] OUTPUT::CLIN Report initialized succesfully.
+[6/24/2017 4:06:26 PM] CLCO REPORT MANAGER - LR+CR ==> Loading CLCO Report...
+[6/24/2017 4:06:26 PM] REPORT MANAGER - LR ==> failed to load: 
+Path cannot be null.
+Parameter name: path
+
+mscorlib
+Void Init(System.String, System.IO.FileMode, System.IO.FileAccess, Int32, Boolean, System.IO.FileShare, Int32, System.IO.FileOptions, SECURITY_ATTRIBUTES, System.String, Boolean, Boolean, Boolean)
+
+mscorlib
+Void Init(System.String, System.IO.FileMode, System.IO.FileAccess, Int32, Boolean, System.IO.FileShare, Int32, System.IO.FileOptions, SECURITY_ATTRIBUTES, System.String, Boolean, Boolean, Boolean)
+[6/24/2017 4:06:26 PM] CLCO REPORT MANAGER - CR ==> Creating CLCO Report...
+[6/24/2017 4:06:26 PM] CLCO REPORT MANAGER - CR ==> CLCO Report created: C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR33.dat
+[6/24/2017 4:06:26 PM] CLCO REPORT MANAGER - LR+CR ==> CLCO Report loaded:
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Consumption\CLCOxR33.dat
+[6/24/2017 4:06:26 PM] CLIN REPORT MANAGER - SR ==> Saving CLIN Report...
+[6/24/2017 4:06:26 PM] CLIN REPORT MANAGER - SR ==> CLIN Report saved:
+C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR33.dat
+[6/24/2017 4:06:26 PM] +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+[6/24/2017 4:06:26 PM] O U T P U T    D A T A::> 
+[6/24/2017 4:06:26 PM] 	- C:\Users\Camilo Hinojosa\Documents\Visual Studio 2017\Projects\Software Projects\PlayBox\Software\MonkeyPlayMonitor - Test\MonkeyPlayMonitor\bin\Debug\Reports\Client Reports\Clients Information\CLINxR33.dat
+[6/24/2017 4:06:26 PM] 	- True
+[6/24/2017 4:06:26 PM] ---------------------------------------------------------------------------------------------------------------------------------------------
+[6/24/2017 4:06:26 PM] 
+
+
+Waiting for packet...
+
+
+[6/24/2017 4:08:25 PM] 
+
+
+
++______________________________________________________________________ R G    P A C K E T ______________________________________________________________________________________+
+[6/24/2017 4:08:25 PM] INPUT DATA:: INACxCOM$close$closeserver
+[6/24/2017 4:08:25 PM] CLOSING!!!
+[6/24/2017 4:08:25 PM] +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

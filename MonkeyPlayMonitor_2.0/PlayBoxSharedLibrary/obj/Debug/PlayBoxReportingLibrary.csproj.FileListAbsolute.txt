@@ -1,0 +1,5 @@
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxSharedLibrary\bin\Debug\PlayBoxSharedLibrary.dll
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxSharedLibrary\bin\Debug\PlayBoxSharedLibrary.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxSharedLibrary\obj\Debug\PlayBoxReportingLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxSharedLibrary\obj\Debug\PlayBoxSharedLibrary.dll
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxSharedLibrary\obj\Debug\PlayBoxSharedLibrary.pdb

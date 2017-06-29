@@ -1,0 +1,36 @@
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxInteractiveReportViewer\bin\Debug\PlayBoxInteractiveReportViewer.exe.config
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxInteractiveReportViewer\bin\Debug\PlayBoxInteractiveReportViewer.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxInteractiveReportViewer\bin\Debug\PlayBoxInteractiveReportViewer.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxInteractiveReportViewer\bin\Debug\PlayBoxSharedLibrary.dll
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxInteractiveReportViewer\bin\Debug\PlayBoxSharedLibrary.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.MainWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.Properties.Resources.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.ReportViewerDisplay.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.csproj.GenerateResource.Cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test(Resized)\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.pdb
+E:\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.csprojResolveAssemblyReference.cache
+E:\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.MainWindow.resources
+E:\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.Properties.Resources.resources
+E:\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.ReportViewerDisplay.resources
+E:\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.csproj.GenerateResource.Cache
+E:\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.exe
+E:\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.pdb
+E:\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\bin\Debug\PlayBoxInteractiveReportViewer.exe.config
+E:\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\bin\Debug\PlayBoxInteractiveReportViewer.exe
+E:\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\bin\Debug\PlayBoxInteractiveReportViewer.pdb
+E:\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\bin\Debug\PlayBoxSharedLibrary.dll
+E:\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\bin\Debug\PlayBoxSharedLibrary.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\bin\Debug\PlayBoxInteractiveReportViewer.exe.config
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\bin\Debug\PlayBoxInteractiveReportViewer.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\bin\Debug\PlayBoxInteractiveReportViewer.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\bin\Debug\PlayBoxSharedLibrary.dll
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\bin\Debug\PlayBoxSharedLibrary.pdb
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.csprojResolveAssemblyReference.cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.MainWindow.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.Properties.Resources.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.ReportViewerDisplay.resources
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.csproj.GenerateResource.Cache
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.exe
+C:\Users\Camilo Hinojosa\Desktop\MonkeyPlayMonitor - Test\PlayBoxInteractiveReportViewer\obj\Debug\PlayBoxInteractiveReportViewer.pdb
